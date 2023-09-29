@@ -9,7 +9,7 @@ slug: "/css-intro-exercise"
 
 Practice using CSS rulesets to add styles to web pages.
 
-## Exercise 1
+## Exercise 1 - Done
 
 Steps are to be completed in your root directory (`CSS_Exercise/`) and `index.html` file.
 
@@ -25,7 +25,7 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 3. Create a **declaration** in your new ruleset that changes the **text color** of the `nav-link` elements to **orange**
 4. Create a **declaration** in your new ruleset that changes the **text decoration** of the `nav-link` elements to **none**, to remove the default underline for links.
 
-## Exercise 3
+## Exercise 3 - Done
 
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
@@ -34,7 +34,7 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 3. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `main` elements to **24px**, to center the `main` elements between the left and right edges of the page (or their containing element).
 4. Create a **declaration** in your new ruleset that changes the **margin left** and **margin right** of the `main` elements to **auto**, to center the `main` elements between the left and right edges of the page (or their containing element).
 
-## Exercise 4
+## Exercise 4 - Done
 
 Steps are to be completed by writing css rulesets in your `index.css` file.
 

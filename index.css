@@ -1,0 +1,53 @@
+
+image{
+    width: 20px;
+    height: 20px;
+}
+
+.nav-link{  
+    color: orange;
+    text-decoration: none;
+}
+
+main {
+    max-width: 600px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    margin-top: 24px;
+    margin-bottom: 24px;
+
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16;
+}
+
+#title {
+    font-size: 40px;
+    font-weight: 800px;
+}
+
+.d-inline{
+    display: inline;
+}
+
+nav > ul{
+    list-style: none;
+} 
+
+body{
+    margin: 0;
+    background-color: #222222;
+    color: #EEEEEE;
+}
+
+.avatar{
+    width: 100;
+    margin: 32px, 32px, auto, auto;
+}
+
